@@ -63,7 +63,7 @@ export default function Projects() {
         {/* Stats */}
         <div className="mt-14 grid md:grid-cols-3 gap-8 text-center">
           <div className="bg-white rounded-2xl p-8 shadow-xl border">
-            <p className="text-4xl font-bold text-primary">13+</p>
+            <p className="text-4xl font-bold text-primary">135</p>
             <p className="mt-2 text-gray-600">Completed Projects</p>
           </div>
           <div className="bg-white rounded-2xl p-8 shadow-xl border">

@@ -47,7 +47,7 @@ export default function About() {
               <li>Registered and compliant with all government procurement norms</li>
               <li>Experienced across rural development, commercial tax, military, and engineering departments</li>
               <li>Transparent reporting and quality-assured execution</li>
-              <li>Proven track record of 13+ completed projects since 2024</li>
+              <li>Proven track record of 135 completed projects since 2024</li>
             </ul>
           </div>
         </div>
