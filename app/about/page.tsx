@@ -172,6 +172,14 @@ export default function About() {
                   "We ensure systematic coordination and timely execution across all engagements. Our operational framework is designed to maintain efficiency, transparency, and adherence to government standards. — Ram Manohar Gupta."
               },
               {
+                name: "Adv. Ramesh Maurya",
+                designation: "Legal Advisor",
+                photo: "/leaders/legal_advisor.jpeg",
+                photoStyle: { objectPosition: "center 10%" },
+                message:
+                  "At Avanya Pratap Service and Construction, we ensure that every tender, contract, and project is guided by legal compliance, transparency, and ethical practices. Our commitment is to protect trust while delivering accountable public infrastructure. — Adv. Ramesh Maurya."
+              },
+              {
                 name: "S M Gupta",
                 designation: "Technical Head",
                 photo: "/leaders/technical_head.JPG",
