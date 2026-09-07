@@ -15,6 +15,7 @@ const partners = [
   { name: "cp_plus",  logo: "/brand-partners/cp_plus.jpg" },
   { name: "crompton",  logo: "/brand-partners/crompton.png" },
   { name: "okaya",  logo: "/brand-partners/okaya.jpg" },
+  { name: "cyberpower",  logo: "/brand-partners/cyberpower.png" },
 ];
 
 export default function BrandPartners() {
